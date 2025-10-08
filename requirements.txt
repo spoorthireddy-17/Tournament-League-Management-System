@@ -1,0 +1,25 @@
+# --- Streamlit core ---
+streamlit
+
+# --- Data handling ---
+pandas
+numpy
+
+# --- AgGrid table display ---
+streamlit-aggrid
+
+# --- Database (Supabase) ---
+supabase-py
+
+# --- Environment & Config handling ---
+python-dotenv
+
+# --- Date and time utilities ---
+datetime
+
+# --- HTTP requests (for API calls) ---
+requests
+
+# --- (Optional but recommended for smooth app experience) ---
+Pillow
+plotly
