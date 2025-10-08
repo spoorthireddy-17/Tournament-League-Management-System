@@ -9,7 +9,7 @@ numpy
 streamlit-aggrid
 
 # --- Database (Supabase) ---
-supabase-py==2.3.5
+supabase
 
 
 # --- Environment & Config handling ---
